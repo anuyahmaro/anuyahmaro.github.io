@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Misc"
+    url: /miscellaneous/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Blog"
+    url: "https://medium.com/@oanuyah-nd"
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
