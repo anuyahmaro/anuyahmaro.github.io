@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About - Oghenemaro Anuyah"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
