@@ -1,15 +1,45 @@
 ---
-title: "Paper Title Number 2"
+title: "Beyond Vision Impairments: Redefining the Scope of Accessible Data Representations"
+excerpt: ""
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2024-01-22
+permalink: /publications/2024-01-22-TVCG-24
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
+paperurl: 'https://ieeexplore-ieee-org.proxy.library.nd.edu/document/10411059'
+image: 'TVCG24.jpg'
+authors: '<b>B. L. Wimer</b>, L. South, K. Wu, D. A. Szafir, M. A. Borkin and R. Metoyer'
+abv: TVCG24
 ---
-This paper is about the number 2. The number 3 is left for future work.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beyond Vision Impairments: Redefining the Scope of Accessible Data Representations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #FF6B6B;
+        }
+        a {
+            color: #FF6B6B;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #FF8A8A;
+        }
+        .excerpt {
+            margin-top: 20px;
+            font-size: 18px;
+        }
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+    </style>
+</head>
+
+
+</html>
+
