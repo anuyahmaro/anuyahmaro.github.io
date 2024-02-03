@@ -1,28 +1,25 @@
 ---
-title: "Beyond Vision Impairments: Redefining the Scope of Accessible Data Representations"
+title: "Cultural Considerations in AI Systems for the Global South: A Systematic Review"
 excerpt: ""
 collection: publications
-date: 2024-01-22
-permalink: /publications/2024-01-22-TVCG-24
-venue: 'IEEE Transactions on Visualization and Computer Graphics'
-paperurl: 'https://ieeexplore-ieee-org.proxy.library.nd.edu/document/10411059'
-image: 'TVCG24.jpg'
-authors: '<b>B. L. Wimer</b>, L. South, K. Wu, D. A. Szafir, M. A. Borkin and R. Metoyer'
-abv: TVCG24
+date: 2024-01-30
+permalink: /publications/2024-01-30-AFRICHI-23
+venue: 'Proceedings of the 4th African Human Computer Interaction Conference'
+paperurl: 'https://dl.acm.org/doi/10.1145/3628096.3629046'
+image:
+authors: '<b>Oghenemaro Anuyah</b>, Ruyuan Wan , Cornelius Adejoro , Tom Yeh , Ronald Metoyer , & Karla Badillo-Urquiola.'
+abv: AfriCHI23
 ---
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Beyond Vision Impairments: Redefining the Scope of Accessible Data Representations</title>
+    <title>Cultural Considerations in AI Systems for the Global South: A Systematic Review</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            /*font-family: Arial, sans-serif;*/
             color: #333;
             padding: 20px;
             line-height: 1.6;
-        }
-        h1 {
-            color: #FF6B6B;
         }
         a {
             color: #FF6B6B;
@@ -35,8 +32,9 @@ abv: TVCG24
             margin-top: 20px;
             font-size: 18px;
         }
-
-
+        h2 {
+        color: #0C2340
+        }
     </style>
 </head>
 
