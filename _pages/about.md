@@ -18,31 +18,31 @@ Latest News
 ======
 <ul>
 <li>
-<strong>2024-01-31</strong>
+<strong>2024-01</strong>
 <br>Excited to share that my first authored paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" style="color: #b37f20" target="_blank">here.</a>
 </li>
 <li>
-<strong>2024-01-19</strong>
+<strong>2024-01</strong>
 <br>
 Excited to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
 Assistant with Refined Template Instructions" was accepted at CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer!
 </li>
 <li>
-<strong>2023-11-21</strong>
+<strong>2023-11</strong>
 <br>
 I passed my PhD oral candidacy exam! Now a Doctoral Candidate!!!
 </li>
 <li>
-<strong>2023-11-09</strong>
+<strong>2023-11</strong>
 <br>
 I delivered an invited talk at the Center for Brain, AI & Child at the University of Colorado, Boulder, and presented on "Participatory Research and Ethics of Working with Communities for AI Research" in Dr. Tom Yeh's lab!!!</li>
 <li>
-<strong>2023-08-15</strong>
+<strong>2023-08</strong>
 <br>
 I presented our work "Exploring the Barriers and Potential Opportunities of Technology Integration in Community-based Social Service Organizations" at ACM COMPASS in Cape Town, South Africa!!!
 </li>
 <li>
-<strong>2023-08-15</strong>
+<strong>2023-08</strong>
 <br>
 I presented my work "Characterizing the Technology Needs of Vulnerable Populations for Participation in Research and Design by Adopting Maslow’s Hierarchy of Needs" at CHI2023 in Hamburg, Germany!!!
 </li>
