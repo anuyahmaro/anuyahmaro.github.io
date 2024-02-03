@@ -35,7 +35,16 @@ I passed my PhD oral candidacy exam! Now a Doctoral Candidate!!!
 <li>
 <strong>2023-11-09</strong>
 <br>
-Visited the Center for Brain, AI & Child at the University of Colorado, Boulder, and gave a talk on "Participatory Research and Ethics of Working with Communities for AI Research" in Dr. Tom Yeh's lab!!!
+I delivered an invited talk at the Center for Brain, AI & Child at the University of Colorado, Boulder, and presented on "Participatory Research and Ethics of Working with Communities for AI Research" in Dr. Tom Yeh's lab!!!</li>
+<li>
+<strong>2023-08-15</strong>
+<br>
+I presented our work "Exploring the Barriers and Potential Opportunities of Technology Integration in Community-based Social Service Organizations" at ACM COMPASS in Cape Town, South Africa!!!
+</li>
+<li>
+<strong>2023-08-15</strong>
+<br>
+I presented my work "Characterizing the Technology Needs of Vulnerable Populations for Participation in Research and Design by Adopting Maslow’s Hierarchy of Needs" at CHI2023 in Hamburg, Germany!!!
 </li>
 
 </ul>
