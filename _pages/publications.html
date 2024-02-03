@@ -39,8 +39,6 @@ author_profile: true
     }
 
 
-
-
     .publication-title {
       font-size: 1.5em;
       margin: 0;
@@ -71,8 +69,8 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% for post in site.publications reversed %}
   <div class="publication">
     <div>
-      <h2 class="publication-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p> {{post.authors}}</p>
+      <span style="color: #0C2340; font-weight: bold"><a href="{{ post.url }}">{{ post.title }}</a></span>
+      <br> {{post.authors}}<br>
       <a class="publication-link" style="color: darkred" href="{{ post.paperurl }}">[PDF]</a>
     </div>
   </div>
