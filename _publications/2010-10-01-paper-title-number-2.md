@@ -33,7 +33,7 @@ abv: AfriCHI23
             font-size: 18px;
         }
         h2 {
-        color: #0C2340
+        color: #0C2340 !important;
         }
     </style>
 </head>

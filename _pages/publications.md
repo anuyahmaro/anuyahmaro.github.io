@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8mv5WeEAAAAJ&hl=en">Google Scholar</a></u> and <u><a href="https://www.researchgate.net/profile/Oghenemaro-Anuyah">ResearchGate</a></u> profiles.
 
 [//]: # ({ endif })
-<h2>Major Peer-reviewed Conference and Journals</h3>
+<h2>Major Peer-reviewed Conference and Journals</h2>
 
 {% include base_path %}
 
