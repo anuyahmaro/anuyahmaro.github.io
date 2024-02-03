@@ -44,15 +44,15 @@ author_profile: true
     }
     .publication-title a {
       text-decoration: none !important;
-      color: #0C2340 !important;
+      /*color: #0C2340 !important;*/
     }
 
     .publication-link {
       display: block;
       margin-top: 0px;
       text-decoration: none !important;
-      color: darkred !important;
-      font-weight: bold;
+      /*color: #0C2340 !important;*/
+      font-weight: normal;
     }
 
   </style>
@@ -68,11 +68,11 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% for post in site.publications reversed %}
   <div class="publication">
     <div>
-      <span style="color: #0C2340 !important; font-weight: bold"><a href="{{ post.url }}" style="text-decoration: none; color: #0C2340 !important;">{{ post.title }}</a></span>
+      <span style=" font-weight: bold"><a href="{{ post.url }}" style="text-decoration: none;">{{ post.title }}</a></span>
       <br> {{post.authors}}
       <br> In: <em>{{post.venue}}</em>
       <br>
-      <a class="publication-link" style="color: darkred" href="{{ post.paperurl }}">[Paper Link]</a>
+      <a class="publication-link" href="{{ post.paperurl }}">[Paper Link]</a>
     </div>
   </div>
   {% endfor %}
