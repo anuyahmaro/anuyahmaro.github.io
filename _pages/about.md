@@ -49,7 +49,9 @@ I presented my work "Characterizing the Technology Needs of Vulnerable Populatio
 
 </ul>
 
+[//]: # ()
+[//]: # (Recent Publications)
 
-Recent Publications
-======
-hhh
+[//]: # (======)
+
+[//]: # (hhh)
