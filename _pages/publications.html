@@ -28,14 +28,14 @@ author_profile: true
       justify-content: space-between;
     }
 
-    .publication {
-      display: flex;
-      align-items: center;
-      width: 95%;
-      margin-bottom: 20px;
-      padding: 20px;
-      border-radius: 10px;
-    }
+    /*.publication {*/
+    /*  display: flex;*/
+    /*  align-items: center;*/
+    /*  width: 95%;*/
+    /*  margin-bottom: 20px;*/
+    /*  padding: 20px;*/
+    /*  border-radius: 10px;*/
+    /*}*/
 
 
     .publication-title {
@@ -66,7 +66,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 
 <div class="publications-container">
   {% for post in site.publications reversed %}
-  <div class="publication">
+<!--  <div class="publication">-->
     <div>
       <span style="color: #0C2340 !important; font-weight: bold"><a href="{{ post.url }}" style="text-decoration: none; color: #0C2340 !important;">{{ post.title }}</a></span>
       <br> {{post.authors}}
@@ -74,7 +74,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
       <br>
       <a class="publication-link" style="color: darkred" href="{{ post.paperurl }}">[Paper Link]</a>
     </div>
-  </div>
+<!--  </div>-->
   {% endfor %}
 </div>
 </body>
