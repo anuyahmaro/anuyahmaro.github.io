@@ -67,11 +67,13 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <div class="publications-container">
   {% for post in site.publications reversed %}
   <div class="publication">
+    <div>
       <span style="color: #0C2340 !important; font-weight: bold"><a href="{{ post.url }}" style="text-decoration: none; color: #0C2340 !important;">{{ post.title }}</a></span>
       <br> {{post.authors}}
       <br> In: <em>{{post.venue}}</em>
       <br>
       <a class="publication-link" style="color: darkred" href="{{ post.paperurl }}">[Paper Link]</a>
+    </div>
   </div>
   {% endfor %}
 </div>
