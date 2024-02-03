@@ -55,6 +55,22 @@ author_profile: true
       color: #b37f20 !important;
       font-weight: normal;
     }
+
+    .publication:last-of-type {
+      margin-bottom: 300px; /* Adjust this value to add more or less space */
+
+    /* Add media query for smaller screens */
+    @media (max-width: 600px) {
+      .publications-container {
+        flex-direction: column;
+      }
+      .publication {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+    }
+    }
   </style>
 </head>
 <body>
