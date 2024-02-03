@@ -1,0 +1,82 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+<!--[//]: # ({ if author.googlescholar })-->
+<!--  You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8mv5WeEAAAAJ&hl=en">Google Scholar</a></u> and <u><a href="https://www.researchgate.net/profile/Oghenemaro-Anuyah">ResearchGate</a></u> profiles.-->
+<!--[//]: # ({ endif })-->
+<!--<h2>Major Peer-reviewed Conference and Journals</h2>-->
+<!--{% include base_path %}-->
+<!--{% for post in site.publications reversed %}-->
+<!--  {% include archive-single.html %}-->
+<!--{% endfor %}-->
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      line-height: 1.5;
+    }
+
+    .publications-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .publication {
+      display: flex;
+      align-items: center;
+      width: 95%;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+
+
+
+    .publication-title {
+      font-size: 1.5em;
+      margin: 0;
+    }
+    .publication-title a {
+      text-decoration: none;
+      color: #0C2340;
+    }
+
+    .publication-link {
+      display: block;
+      margin-top: 0px;
+      text-decoration: none;
+      color: #0C2340;
+      font-weight: bold;
+    }
+
+  </style>
+</head>
+<body>
+
+
+You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8mv5WeEAAAAJ&hl=en">Google Scholar</a></u> and <u><a href="https://www.researchgate.net/profile/Oghenemaro-Anuyah">ResearchGate</a></u> profiles.
+
+<h2>Major Peer-reviewed Conference and Journals</h2>
+
+<div class="publications-container">
+  {% for post in site.publications reversed %}
+  <div class="publication">
+    <div>
+      <h2 class="publication-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p> {{post.authors}}</p>
+      <a class="publication-link" style="color: darkred" href="{{ post.paperurl }}">[PDF]</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+</body>
+</html>
