@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -19,7 +19,7 @@ Latest News
 <ul>
 <li>
 <strong>2024-01</strong>
-<br>Excited to share that my first authored paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" style="color: #b37f20" target="_blank">here.</a>
+<br>Excited to share that our paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" style="color: #b37f20" target="_blank">here.</a>
 </li>
 <li>
 <strong>2024-01</strong>
@@ -44,7 +44,7 @@ I presented our work "Exploring the Barriers and Potential Opportunities of Tech
 <li>
 <strong>2023-08</strong>
 <br>
-I presented my work "Characterizing the Technology Needs of Vulnerable Populations for Participation in Research and Design by Adopting Maslow’s Hierarchy of Needs" at CHI2023 in Hamburg, Germany!!!
+I presented our work "Characterizing the Technology Needs of Vulnerable Populations for Participation in Research and Design by Adopting Maslow’s Hierarchy of Needs" at CHI2023 in Hamburg, Germany!!!
 </li>
 
 </ul>
