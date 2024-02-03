@@ -18,13 +18,24 @@ Latest News
 ======
 <ul>
 <li>
-<p style="font-weight: bold">2024-01-31</p>
-<p>Excited to share that my first authored paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" target="_blank">here</a> </p>
+<strong>2024-01-31</strong>
+<br>Excited to share that my first authored paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" target="_blank">here.</a>
 </li>
 <li>
-<p style="font-weight: bold">2024-01-19</p>
-<p>Excited to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
-Assistant with Refined Template Instructions" was accepted at CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer! </p>
+<strong>2024-01-19</strong>
+<br>
+Excited to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
+Assistant with Refined Template Instructions" was accepted at CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer!
+</li>
+<li>
+<strong>2023-11-21</strong>
+<br>
+I passed my PhD oral candidacy exam! Now a Doctoral Candidate!!!
+</li>
+<li>
+<strong>2023-11-09</strong>
+<br>
+Visited the Center for Brain, AI & Child at the University of Colorado, Boulder, and gave a talk on "Participatory Research and Ethics of Working with Communities for AI Research" in Dr. Tom Yeh's lab!!!
 </li>
 
 </ul>
