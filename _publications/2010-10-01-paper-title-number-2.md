@@ -1,6 +1,6 @@
 ---
 title: "Cultural Considerations in AI Systems for the Global South: A Systematic Review"
-excerpt: ""
+excerpt: "Paper Abstract here"
 collection: publications
 date: 2024-01-30
 permalink: /publications/2024-01-30-AFRICHI-23
