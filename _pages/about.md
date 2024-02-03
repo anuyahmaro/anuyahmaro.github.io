@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -14,7 +14,7 @@ I am a Ph.D. candidate in the <a href="https://hci.nd.edu/" style="color: #b37f2
 My research intersects **technology,** **ethics,** and **social welfare**, with a particular focus on empowering marginalized and vulnerable communities through digital solutions. I do empirical research in knowledge management and artificial intelligence, primarily through ethnography and participatory design research. My work is dedicated to designing, developing, and evaluating tools that support those assisting marginalized and vulnerable groups. Additionally, I am passionate about **enhancing AI and technology literacy** among underserved communities in the Global South, with a special emphasis on Africa. My research findings have been disseminated through presentations and publications at leading academic conferences across HCI and related interdisciplinary fields, including CHI, IDC, ICSE, and FAccT.
 
 
-Latest News
+Latest news
 ======
 <ul>
 <li>
