@@ -3,7 +3,7 @@ title: "Cultural Considerations in AI Systems for the Global South: A Systematic
 excerpt: "Paper Abstract here"
 collection: publications
 date: 2024-01-30
-permalink: /publications/2024-01-30-AFRICHI-23
+permalink: 'https://dl.acm.org/doi/10.1145/3628096.3629046'
 venue: 'Proceedings of the 4th African Human Computer Interaction Conference'
 paperurl: 'https://dl.acm.org/doi/10.1145/3628096.3629046'
 image:
