@@ -16,7 +16,19 @@ My research intersects **technology,** **ethics,** and **social welfare**, with 
 
 Latest News
 ======
-hhh
+<ul>
+<li>
+<p style="font-weight: bold">2024-01-31</p>
+<p>Excited to share that my first authored paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" target="_blank">here</a> </p>
+</li>
+<li>
+<p style="font-weight: bold">2024-01-19</p>
+<p>Excited to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
+Assistant with Refined Template Instructions" was accepted at CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer! </p>
+</li>
+
+</ul>
+
 
 Recent Publications
 ======
