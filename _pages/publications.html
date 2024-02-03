@@ -35,7 +35,6 @@ author_profile: true
       margin-bottom: 20px;
       padding: 20px;
       border-radius: 10px;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     }
 
 
@@ -44,15 +43,15 @@ author_profile: true
       margin: 0;
     }
     .publication-title a {
-      text-decoration: none;
-      color: #0C2340;
+      text-decoration: none !important;
+      color: #0C2340 !important;
     }
 
     .publication-link {
       display: block;
       margin-top: 0px;
-      text-decoration: none;
-      color: #0C2340;
+      text-decoration: none !important;
+      color: #0C2340 !important;
       font-weight: bold;
     }
 
@@ -69,8 +68,10 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% for post in site.publications reversed %}
   <div class="publication">
     <div>
-      <span style="color: #0C2340; font-weight: bold"><a href="{{ post.url }}">{{ post.title }}</a></span>
-      <br> {{post.authors}}<br>
+      <span style="color: #0C2340 !important; font-weight: bold"><a href="{{ post.url }}" style="text-decoration: none">{{ post.title }}</a></span>
+      <br> {{post.authors}}
+      <br> In: {{post.venue}}
+      <br>
       <a class="publication-link" style="color: darkred" href="{{ post.paperurl }}">[PDF]</a>
     </div>
   </div>
