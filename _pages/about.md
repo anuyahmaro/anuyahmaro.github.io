@@ -12,6 +12,7 @@ I am a Ph.D. candidate in the <a href="https://hci.nd.edu/" style="color: #b37f2
 <a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. Before coming to Notre Dame, I earned an MS in Computer Science from Boise State University (BSU), where I was a member of the <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>.
 
 My research intersects **technology,** **ethics,** and **social welfare**, with a particular focus on empowering marginalized and vulnerable communities through digital solutions. I conduct my empirical work primarily through ethnography and participatory design, centered on designing, developing, and evaluating AI-powered knowledge management interventions to aid those supporting marginalized and vulnerable groups. Additionally, I am passionate about **enhancing AI and technology literacy** among underserved communities in the Global South, with a special emphasis on Africa. I have disseminated my research findings through presentations and publications at leading academic conferences across HCI and related interdisciplinary fields, including CHI, IDC, ICSE, and FAccT.
+
 Latest news
 ======
 <ul>
