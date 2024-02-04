@@ -19,12 +19,12 @@ Latest news
 <ul>
 <li>
 <strong>2024-01</strong>
-<br>Excited to share that our paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" style="color: #b37f20" target="_blank">here.</a>
+<br>Exciting News!!! Our paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" style="color: #b37f20" target="_blank">here.</a>
 </li>
 <li>
 <strong>2024-01</strong>
 <br>
-Excited to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
+Thrilled to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
 Assistant with Refined Template Instructions" was accepted at CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer!
 </li>
 <li>
