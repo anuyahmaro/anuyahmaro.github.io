@@ -42,7 +42,7 @@ I delivered an invited talk at the Center for Brain, AI & Child at the Universit
 I presented our work "Exploring the Barriers and Potential Opportunities of Technology Integration in Community-based Social Service Organizations" at ACM COMPASS in Cape Town, South Africa!!!
 </li>
 <li>
-<strong>2023-08</strong>
+<strong>2023-04</strong>
 <br>
 I presented our work "Characterizing the Technology Needs of Vulnerable Populations for Participation in Research and Design by Adopting Maslow’s Hierarchy of Needs" at CHI2023 in Hamburg, Germany!!!
 </li>
