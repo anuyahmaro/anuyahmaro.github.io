@@ -78,9 +78,10 @@ author_profile: true
 
 A complete list of my publications can be found on my <a href="https://scholar.google.com/citations?user=8mv5WeEAAAAJ&hl=en" style="color: #b37f20">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Oghenemaro-Anuyah" style="color: #b37f20">ResearchGate</a> profiles.
 
-<h2>Major Peer-reviewed Conference and Journals</h2>
+
 
 <div class="publications-container">
+  <h2>Major Peer-reviewed Conference and Journals</h2>
   {% for post in site.publications reversed %}
   <div class="publication">
     <div>
@@ -93,11 +94,8 @@ A complete list of my publications can be found on my <a href="https://scholar.g
     </div>
   </div>
   {% endfor %}
-</div>
 
-<h2>Extended Abstracts, Posters, and Workshop Papers</h2>
-
-<div class="publications-container">
+  <h2>Extended Abstracts, Posters, and Workshop Papers</h2>
   {% for ppost in site.posterpubs reversed %}
   <div class="publication">
     <div>
@@ -111,6 +109,12 @@ A complete list of my publications can be found on my <a href="https://scholar.g
   </div>
   {% endfor %}
 </div>
+
+
+
+<!--<div class="publications-container">-->
+<!--  -->
+<!--</div>-->
 
 </body>
 </html>
