@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-Here are some of the talks and presentations I have given.
+
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -35,12 +35,12 @@ Here are some of the talks and presentations I have given.
           {{ title }}
 <!--        </a>-->
 <!--      {% endif %}-->
-    </span>, {% if post.venue %}<span><a href="{{ post.talkurl }}" style="color: #b37f20 !important">{{ post.venue }}</a>, {{post.location}} <br> {{post.type}}</span> {% endif %}
+    </span>, {% if post.venue %}<span><a href="{{ post.talkurl }}" style="color: #b37f20 !important">{{ post.venue }}</a>, {{post.location}} </span> {% endif %}
 
     <!--    {% if post.read_time %}-->
-<!--      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>-->
+<!--      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %} <br> {{post.type}}</p>-->
 <!--    {% endif %}-->
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p> <br>{% endif %}
     <!--    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"></p>{% endif %}-->
 <!--    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}-->
   </article>
