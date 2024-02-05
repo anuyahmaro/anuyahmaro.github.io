@@ -25,19 +25,19 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
+    <span class="archive__item-title" itemprop="headline">
 <!--      {% if post.link %}-->
 <!--        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.talkurl }}"></a>-->
 <!--      {% else %}-->
         <a href="{{ post.talkurl }}" style="color: #b37f20 !important">{{ title }}</a>
 <!--      {% endif %}-->
-    </h2>
+    </span>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }}</p> {% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"><ul><li>{{post.location}}</li></ul> </p>{% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">&#x2022; {{post.location}} </p>{% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
