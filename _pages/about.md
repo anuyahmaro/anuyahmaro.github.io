@@ -48,22 +48,3 @@ I presented our work "Characterizing the Technology Needs of Vulnerable Populati
 </li>
 
 </ul>
-
-[//]: # (Travel)
-
-[//]: # (======)
-
-[//]: # (<ul>)
-
-[//]: # (<li>)
-
-[//]: # (<strong>2023-11-08 - 2023-11-10 </strong>)
-
-[//]: # (<br> Invited Talk in the Center for Child, AI, & Brain, Boulder, Colorado, USA..)
-
-[//]: # (</li>)
-
-[//]: # (</ul>)
-
-[//]: # ()
-[//]: # (<!--more-->)
