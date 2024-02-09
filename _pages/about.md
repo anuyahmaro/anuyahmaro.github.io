@@ -54,7 +54,7 @@ Travel
 <ul>
 <li>
 <strong>2023-11-08 to 2023-11-10 </strong>
-<br> Invited Talk, Boulder, Colorado, USA.
+<br> Invited Talk in the Center for Child, AI, & Brain, Boulder, Colorado, USA.
 </li>
 <li>
 <strong>2023-09-13 to 2023-09-15 </strong>
