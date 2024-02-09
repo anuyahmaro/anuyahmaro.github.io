@@ -53,51 +53,7 @@ Travel
 ======
 <ul>
 <li>
-<strong>2023-11-08 to 2023-11-10 </strong>
+<strong>2023-11-08 - 2023-11-10 </strong>
 <br> Invited Talk in the Center for Child, AI, & Brain, Boulder, Colorado, USA.
-</li>
-<li>
-<strong>2023-09-13 to 2023-09-15 </strong>
-<br> TAPIA 2023, Dallas, Texas, USA.
-</li>
-<li>
-<strong>2023-08-16 to 2023-08-21 </strong>
-<br> COMPASS 2023, Cape Town, South Africa.
-</li>
-<li>
-<strong>2023-04-23 to 2023-04-28 </strong>
-<br> CHI 2023, Hamburg, Germany.
-</li>
-<li>
-<strong>2022-05-30 to 2022-08-22 </strong>
-<br> Internship at Microsoft, Redmond, WA, USA.
-</li>
-<li>
-<strong>2022-03-24 to 2022-03-26 </strong>
-<br> Cra Grad Cohort for IDEALS, San Diego, California, USA.
-</li>
-<li>
-<strong>2019-08-08 to 2019-08-11</strong>
-<br> The Web Conference, Atlanta, Georgia, USA.
-</li>
-<li>
-<strong>2019-05-13 to 2019-05-17</strong>
-<br> The Web Conference, San Francisco, California, USA.
-</li>
-<li>
-<strong>2018-03-21 to 2018-03-25</strong>
-<br> NSBE National Convention, Pittsburg, Philadelphia, USA.
-</li>
-<li>
-<strong>2018-03-15 to 2018-03-17</strong>
-<br> CRA Grad Cohort for URMD (now IDEALS), San Diego, California, USA.
-</li>
-<li>
-<strong>2017-10-04 to 2017--10-04</strong>
-<br> Grace Hopper Conference, Orlando, Florida, USA.
-</li>
-<li>
-<strong>2017-04-06 to 2017-04-08</strong>
-<br> CRA Grad Cohort for Women, Washington DC, USA.
 </li>
 </ul>
