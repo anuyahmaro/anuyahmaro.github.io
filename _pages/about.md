@@ -74,6 +74,13 @@ Travel
 <strong>2019-08-08 to 2019-08-11</strong>
 <br> The Web Conference, Atlanta, Georgia, USA.
 </li>
+
+</ul>
+<details>
+<summary>MORE
+</summary>
+<div>
+<ul>
 <li>
 <strong>2019-05-13 to 2019-05-17</strong>
 <br> The Web Conference, San Francisco, California, USA.
@@ -95,3 +102,5 @@ Travel
 <br> CRA Grad Cohort for Women, Washington DC, USA.
 </li>
 </ul>
+</div>
+</details>
