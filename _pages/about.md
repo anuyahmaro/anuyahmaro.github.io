@@ -51,6 +51,10 @@ Travel
 ======
 <ul>
 <li>
+<strong>2023-11-08 to 2023-11-10 </strong>
+<br> Invited Talk in the Center for Brain, AI, & Child, Boulder, Colorado, USA.
+</li>
+<li>
 <strong>2023-09-13 to 2023-09-15 </strong>
 <br> TAPIA 2023, Dallas, Texas, USA.
 </li>
