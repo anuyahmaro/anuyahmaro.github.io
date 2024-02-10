@@ -52,31 +52,31 @@ Travel
 <ul>
 <li>
 <strong>2023-11-08 to 2023-11-10 </strong>
-<br> Invited Talk in the Center for Brain, AI, & Child, Boulder, Colorado, USA.
+<br> Invited Talk in the Center for Brain, AI, & Child - <em> Boulder, Colorado, USA</em>.
 </li>
 <li>
 <strong>2023-09-13 to 2023-09-15 </strong>
-<br> TAPIA 2023, Dallas, Texas, USA.
+<br> TAPIA 2023 - <em> Dallas, Texas, USA</em>.
 </li>
 <li>
 <strong>2023-08-16 to 2023-08-21 </strong>
-<br> COMPASS 2023, Cape Town, South Africa.
+<br> COMPASS 2023 - <em> Cape Town, South Africa</em>.
 </li>
 <li>
 <strong>2023-04-23 to 2023-04-28 </strong>
-<br> CHI 2023, Hamburg, Germany.
+<br> CHI 2023 - <em> Hamburg, Germany</em>.
 </li>
 <li>
 <strong>2022-05-30 to 2022-08-22 </strong>
-<br> Internship at Microsoft, Redmond, WA, USA.
+<br> Internship at Microsoft - <em>Redmond, WA, USA</em>.
 </li>
 <li>
 <strong>2022-03-24 to 2022-03-26 </strong>
-<br> Cra Grad Cohort for IDEALS, San Diego, California, USA.
+<br> Cra Grad Cohort for IDEALS - <em>San Diego, California, USA</em>.
 </li>
 <li>
 <strong>2019-08-08 to 2019-08-11</strong>
-<br> The Web Conference, Atlanta, Georgia, USA.
+<br> NSBC Conference - <em>Atlanta, Georgia, USA.</em>
 </li>
 
 </ul>
@@ -87,23 +87,23 @@ Travel
 <ul>
 <li>
 <strong>2019-05-13 to 2019-05-17</strong>
-<br> The Web Conference, San Francisco, California, USA.
+<br> The Web Conference - <em> San Francisco, California, USA</em>.
 </li>
 <li>
 <strong>2018-03-21 to 2018-03-25</strong>
-<br> NSBE National Convention, Pittsburg, Philadelphia, USA.
+<br> NSBE National Convention - <em> Pittsburg, Philadelphia, USA</em>.
 </li>
 <li>
 <strong>2018-03-15 to 2018-03-17</strong>
-<br> CRA Grad Cohort for URMD (now IDEALS), San Diego, California, USA.
+<br> CRA Grad Cohort for URMD (now IDEALS) - <em> San Diego, California, USA</em>.
 </li>
 <li>
 <strong>2017-10-04 to 2017--10-04</strong>
-<br> Grace Hopper Conference, Orlando, Florida, USA.
+<br> Grace Hopper Conference - <em> Orlando, Florida, USA</em>.
 </li>
 <li>
 <strong>2017-04-06 to 2017-04-08</strong>
-<br> CRA Grad Cohort for Women, Washington DC, USA.
+<br> CRA Grad Cohort for Women - <em> Washington DC, USA</em>.
 </li>
 </ul>
 </div>
