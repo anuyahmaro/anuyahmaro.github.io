@@ -68,7 +68,11 @@ Travel
 </li>
 <li>
 <strong>2022-05-30 to 2022-08-22 </strong>
-<br> Internship at Microsoft - <em>Redmond, WA, USA</em>.
+<br> Internship at Microsoft - <em>Redmond, Washington, USA</em>.
+</li>
+  <li>
+<strong>2022-04-30 to 2022-05-06 </strong>
+<br> CHI 2022 - <em> New Orleans, USA</em>.
 </li>
 <li>
 <strong>2022-03-24 to 2022-03-26 </strong>
@@ -98,7 +102,7 @@ Travel
 <br> CRA Grad Cohort for URMD (now IDEALS) - <em> San Diego, California, USA</em>.
 </li>
 <li>
-<strong>2017-10-04 to 2017--10-04</strong>
+<strong>2017-10-04 to 2017-10-04</strong>
 <br> Grace Hopper Conference - <em> Orlando, Florida, USA</em>.
 </li>
 <li>
