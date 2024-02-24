@@ -72,7 +72,7 @@ Travel
 </li>
   <li>
 <strong>2022-04-30 to 2022-05-06 </strong>
-<br> CHI 2022 - <em> New Orleans, USA</em>.
+<br> CHI 2022 - <em> New Orleans, Louisiana, USA</em>.
 </li>
 <li>
 <strong>2022-03-24 to 2022-03-26 </strong>
