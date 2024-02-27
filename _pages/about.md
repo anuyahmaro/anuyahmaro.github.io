@@ -112,5 +112,3 @@ Travel
 </ul>
 </div>
 </details>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IU-plZ4XXwjniuQ6FGWkOFrj_NSdV519E_8YGL-i3AE&cl=ffffff&w=a"></script>
