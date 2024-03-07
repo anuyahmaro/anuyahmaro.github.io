@@ -12,6 +12,7 @@ I am a Ph.D. candidate in the <a href="https://hci.nd.edu/" style="color: #b37f2
 
 My work falls in the intersection of **HCI,** **human-AI collaboration,**  **AI ethics,** and **social welfare,** and focuses on the empowerment of underserved and marginalized groups, including children, low-income communities, and other vulnerable populations, through digital solutions. My current research uses **ethnography** and **participatory design methodologies** to explore challenges and needs in the work processes of community workers supporting underserved and marginalized groups, and to design, implement, and evaluate AI-powered knowledge management interventions that strengthen support systems for these populations. Additionally, I am passionate about **enhancing AI literacy** in the Global South, with a special emphasis on Africa. My research findings have been disseminated through presentations and publications at leading academic conferences across HCI and related interdisciplinary fields, including CHI, IDC, ICSE, and FAccT.
 
+My work has been generously funded by the <a href = "https://www.dupontfund.org/" target="_blank">Jessie Ball duPont Fund</a> and the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation (NSF)</a>.
 
 Latest news
 ======

@@ -9,6 +9,9 @@ main:
   - title: "Misc"
     url: /talks/
 
+#  - title: "Personal"
+#    url: /personal/
+
   - title: "Blog"
     url: "https://medium.com/@oanuyah-nd"
 
