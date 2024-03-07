@@ -12,11 +12,15 @@ I am a Ph.D. candidate in the <a href="https://hci.nd.edu/" style="color: #b37f2
 
 My work falls in the intersection of **HCI,** **human-AI collaboration,**  **AI ethics,** and **social welfare,** and focuses on the empowerment of underserved and marginalized groups, including children, low-income communities, and other vulnerable populations, through digital solutions. My current research uses **ethnography** and **participatory design methodologies** to explore challenges and needs in the work processes of community workers supporting underserved and marginalized groups, and to design, implement, and evaluate AI-powered knowledge management interventions that strengthen support systems for these populations. Additionally, I am passionate about **enhancing AI literacy** in the Global South, with a special emphasis on Africa. My research findings have been disseminated through presentations and publications at leading academic conferences across HCI and related interdisciplinary fields, including CHI, IDC, ICSE, and FAccT.
 
-My work has been generously funded by the <a href = "https://www.dupontfund.org/" target="_blank">Jessie Ball duPont Fund</a> and the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation (NSF)</a>.
+My research has been generously funded by the <a href = "https://www.dupontfund.org/" target="_blank">Jessie Ball duPont Fund</a> and the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation (NSF)</a>.
 
 Latest news
 ======
 <ul>
+<li>
+<strong>2024-03</strong>
+<br>Great news! My submission to the #CHI2024 Doctoral Consortium was accepted. I will be presenting my doctoral research titled "Strengthening Communities: Towards AI-Empowered Knowledge Management for Community Social Services."
+</li>
 <li>
 <strong>2024-01</strong>
 <br>Exciting News!!! Our paper "Cultural Considerations in AI Systems for the Global South: A Systematic Review" is now available in ACM DL! This paper can be accessed <a href="https://dl.acm.org/doi/10.1145/3628096.3629046" style="color: #b37f20" target="_blank">here.</a>
@@ -25,7 +29,7 @@ Latest news
 <strong>2024-01</strong>
 <br>
 Thrilled to share that our paper "Integrating Expertise in LLMs: Crafting a Customized Nutrition
-Assistant with Refined Template Instructions" was accepted at CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer!
+Assistant with Refined Template Instructions" was accepted at #CHI2024!!! This work was co-authored with my peers, Annalisa Szymanski and Brianna Wimer!
 </li>
 <li>
 <strong>2023-11</strong>
