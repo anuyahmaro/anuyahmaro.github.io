@@ -17,6 +17,9 @@ My research has been generously funded by the <a href = "https://www.dupontfund.
 Latest news
 ======
 <ul>
+  <li>
+    <strong>2024-07</strong>
+    <br> Thrilled to share that our paper "Examining Mainstream News Media Narratives on Youth Online Safety" has been accepted to the CSCW 2024 Poster track!!! See you all in Costa Rica.
 <li>
 <strong>2024-03</strong>
 <br>Great news! My submission to the #CHI2024 Doctoral Consortium was accepted. I will be presenting my doctoral research titled "Strengthening Communities: Towards AI-Empowered Knowledge Management for Community Social Services."
