@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in the <a href="https://hci.nd.edu/" style="color: #b37f20; text-decoration:underline" target="_blank">Human Computer Interaction Lab</a> at the University of Notre Dame, and co-advised by <a href="https://engineering.nd.edu/faculty/ronald-metoyer/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Ronald Metoyer</a> and
-<a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. Before coming to Notre Dame, I earned an MS in Computer Science from Boise State University (BSU), where I was a member of the <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>.
+<a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. Before coming to Notre Dame, I earned a MS in Computer Science from Boise State University (BSU), where I was a member of the <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>.
 
 My work falls in the intersection of **HCI,** **human-AI collaboration,** and  **Responsible AI,** and focuses on the empowerment of underserved and marginalized groups, including children, low-income communities, and other vulnerable populations, through digital solutions. My current research uses **ethnography** and **participatory design methodologies** to explore challenges and needs in the work processes of community workers supporting underserved and marginalized groups, and to design, implement, and evaluate AI-powered knowledge management interventions that strengthen support systems for these populations. Additionally, I am passionate about **enhancing AI literacy** in the Global South, with a special emphasis on Africa. My research findings have been disseminated through presentations and publications at leading academic conferences across HCI and related interdisciplinary fields, including CHI, IDC, ICSE, and FAccT.
 
@@ -17,6 +17,10 @@ My research has been generously funded by the <a href = "https://www.dupontfund.
 Latest news
 ======
 <ul>
+   <li>
+    <strong>2024-10</strong>
+    <br> Happy to share that our paper "Exploring Knowledge Sharing and Community of Practice Development: A Stakeholders Analysis of Social Service Organizations in a Midwestern Underserved Community" has been accepted to the GROUP 2025 Poster track!!!
+</li>
   <li>
     <strong>2024-07</strong>
     <br> Thrilled to share that our paper "Examining Mainstream News Media Narratives on Youth Online Safety" has been accepted to the CSCW 2024 Poster track!!! See you all in Costa Rica.
