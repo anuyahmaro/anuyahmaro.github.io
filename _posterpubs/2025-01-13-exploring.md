@@ -8,5 +8,5 @@ venue: "Companion Proceedings of the 2025 ACM International Conference on Suppor
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3688828.3699645'
 image:
 authors: '<b>Oghenemaro Anuyah</b>, Karla Badillo-Urquiola, & Ronald Metoyer'
-abv: CSCW24
+abv: GROUP25
 ---
