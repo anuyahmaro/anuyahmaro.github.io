@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in the <a href="https://hci.nd.edu/" style="color: #b37f20; text-decoration:underline" target="_blank">Human Computer Interaction Lab</a> at the University of Notre Dame, and co-advised by <a href="https://engineering.nd.edu/faculty/ronald-metoyer/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Ronald Metoyer</a> and
-<a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. Before coming to Notre Dame, I earned a MS in Computer Science from Boise State University (BSU), where I was a member of the <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>.
+<a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. Before coming to Notre Dame, I earned an MS in Computer Science from Boise State University (BSU), where I was a member of the <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>.
 
 My work falls in the intersection of **HCI** and **human-AI collaboration,** and focuses on empowering underserved and marginalized groups, including children, low-income communities, and other vulnerable populations, through technological solutions. My current research uses **ethnography** and **participatory design methodologies** to explore challenges and needs in the work processes of community workers supporting underserved and marginalized groups and to design, implement, and evaluate AI-powered knowledge management interventions that strengthen support systems for these populations. Additionally, I am passionate about **enhancing AI literacy** in the Global South, with a special emphasis on Africa. My research findings have been disseminated through presentations and publications at leading academic conferences across HCI and related interdisciplinary fields, including CHI, CSCW, IDC, ICSE, and FAccT.
 
@@ -17,6 +17,22 @@ My research has been generously funded by the <a href = "https://www.dupontfund.
 Latest news
 ======
 <ul>
+  <li>
+    <strong>2025-03</strong>
+    <br> Big news!!! I was selected as one of the Honorable Mentions for the NCWIT Aspirations in Computing 2025 Collegiate Award!!! More details <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" target="_blank">here</a>.
+</li>
+  <li>
+    <strong>2025-03</strong>
+    <br> Big news!!! My dissertation won the 2025 Social Justice award at the University of Notre Dame!!! More details <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/">here</a>.
+</li>
+  <li>
+    <strong>2025-03</strong>
+    <br> Defended my dissertation titled "Strengthening Communities: Designing AI for Knowledge Synthesis and Transfer in Social Services." I am now a Dr. of Computer Science!!!
+</li>
+  <li>
+    <strong>2025-03</strong>
+    <br> Great news!!! Two papers accepted at CSCW 2025. First is "``We aren't very sophisticated'': An Ethnographic Study of Knowledge Management in Community Social Services" and the second is "Online Safety for All: Sociocultural Insights from a Systematic Review of Youth Online Safety in the Global South."
+</li>
    <li>
     <strong>2024-10</strong>
     <br> Happy to share that our paper "Exploring Knowledge Sharing and Community of Practice Development: A Stakeholders Analysis of Social Service Organizations in a Midwestern Underserved Community" has been accepted to the GROUP 2025 Poster track!!!
