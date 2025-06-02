@@ -31,7 +31,7 @@ Latest news
 </li>
   <li>
     <strong>2025-03</strong>
-    <br> Great news!!! Two papers accepted at CSCW 2025. The first is my first-authored paper titled "We aren't very sophisticated: An Ethnographic Study of Knowledge Management in Community Social Services." The second is my second-authored paper titled "Online Safety for All: Sociocultural Insights from a Systematic Review of Youth Online Safety in the Global South."
+    <br> Great news!!! Two papers accepted at CSCW 2025. One is a first-authored paper titled "We aren't very sophisticated: An Ethnographic Study of Knowledge Management in Community Social Services." The other is a second-authored paper titled "Online Safety for All: Sociocultural Insights from a Systematic Review of Youth Online Safety in the Global South."
 </li>
    <li>
     <strong>2024-10</strong>
