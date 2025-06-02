@@ -23,7 +23,7 @@ Latest news
 </li>
   <li>
     <strong>2025-03</strong>
-    <br> Big news!!! My dissertation won the 2025 Social Justice award at the University of Notre Dame!!! More details <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/">here</a>.
+    <br> Big news!!! My dissertation won the 2025 Social Justice award at the University of Notre Dame!!! More details <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" target="_blank">here</a>.
 </li>
   <li>
     <strong>2025-03</strong>
@@ -31,7 +31,7 @@ Latest news
 </li>
   <li>
     <strong>2025-03</strong>
-    <br> Great news!!! Two papers accepted at CSCW 2025. First is "``We aren't very sophisticated'': An Ethnographic Study of Knowledge Management in Community Social Services" and the second is "Online Safety for All: Sociocultural Insights from a Systematic Review of Youth Online Safety in the Global South."
+    <br> Great news!!! Two papers accepted at CSCW 2025. The first is my first-authored paper titled "We aren't very sophisticated: An Ethnographic Study of Knowledge Management in Community Social Services." The second is my second-authored paper titled "Online Safety for All: Sociocultural Insights from a Systematic Review of Youth Online Safety in the Global South."
 </li>
    <li>
     <strong>2024-10</strong>
