@@ -82,8 +82,8 @@ analytics:
 author:
   name             : 'Oghenemaro "Maro" Anuyah'
   avatar           : "anuyahmaro_profile_image.jpeg"
-  bio              : "CS Ph.D Candidate at the <a href= 'https://www.nd.edu/' target='_blank' style='color: #b37f20 !important'> University of Notre Dame</a>"
-  location         : "Indiana, USA"
+  bio              : "<a href= 'https://www.microsoft.com/en-us' target='_blank' style='color: #b37f20 !important'>Microsoft</a>"
+  location         : "Seattle, Washington, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=8mv5WeEAAAAJ&hl=en&authuser=1"
