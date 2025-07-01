@@ -12,7 +12,7 @@ I am a computer scientist and design researcher at Microsoft, where I focus on h
 As a researcher, I am deeply committed to understanding and improving people’s experiences with technology. With a background spanning computer science, human-computer interaction, and participatory design, I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human-AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
 
 
-<h2 Current Work </h2>
+<h2>Current Work</h2>  
 At Microsoft, I investigate how intelligent systems can facilitate more inclusive, collaborative, and productive work environments. My research approach combines ethnographic methods, in-depth interviews, and co-design workshops to uncover people’s needs and envision AI-powered tools that integrate seamlessly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design AI systems that are practical, meaningful, and socially responsible.
 
 
