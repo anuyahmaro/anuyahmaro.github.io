@@ -7,17 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Design Researcher at Microsoft, where I investigate intelligent systems that enhance collaborative productivity across Microsoft’s product ecosystem.
+I am a computer scientist and design researcher at Microsoft, where I focus on human-centered AI and accessibility to improve how people collaborate and get work done together. Previously, I conducted research on AI-powered knowledge management systems to support community-based organizations serving underserved and marginalized populations.
 
-I earned my Ph.D. in Computer Science from the University of Notre Dame, where I was a member of the <a href="https://hci.nd.edu/" style="color: #b37f20; text-decoration:underline" target="_blank">Human Computer Interaction Lab</a>, co-advised by <a href="https://engineering.nd.edu/faculty/ronald-metoyer/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Ronald Metoyer</a> and <a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. Prior to that, I earned an MS in Computer Science from Boise State University, where I was part of the <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>.
+As a researcher, I am deeply committed to understanding and improving people’s experiences with technology. With a background spanning computer science, human-computer interaction, and participatory design, I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human-AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
 
-During my Ph.D., my dissertation focused on designing and evaluating AI-powered knowledge management tools to support community workers who serve underserved and marginalized populations. I employed ethnographic and participatory design methodologies to explore the challenges and information needs in their work practices, with the goal of co-creating technological solutions that enhance their effectiveness and impact. My dissertation was recognized with the <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" style="color: #b37f20; text-decoration:underline" target="_blank">2025 Social Justice Award</a> from the Graduate School at the University of Notre Dame and the <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" style="color: #b37f20; text-decoration:underline" target="_blank">2025 NCWIT Aspirations in Computing Collegiate Award</a>.
 
-My research lies at the intersection of human-computer interaction (HCI) and human-AI collaboration, with a broader commitment to designing equitable and inclusive systems. I am particularly passionate about advancing AI literacy in the Global South, especially in Africa.
+<h2 Current Work </h2>
+At Microsoft, I investigate how intelligent systems can facilitate more inclusive, collaborative, and productive work environments. My research approach combines ethnographic methods, in-depth interviews, and co-design workshops to uncover people’s needs and envision AI-powered tools that integrate seamlessly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design AI systems that are practical, meaningful, and socially responsible.
 
-Currently, at Microsoft, I continue to explore how intelligent systems can facilitate more inclusive, collaborative, and productive work environments—building on the foundational research and values developed during my academic training.
 
-My work has been published and presented at leading venues including CHI, CSCW, IDC, ICSE, and FAccT, and has been supported by the <a href = "https://www.dupontfund.org/" style="color: #b37f20; text-decoration:underline" target="_blank">Jessie Ball duPont Foundation</a> and the <a href="https://www.nsf.gov/" style="color: #b37f20; text-decoration:underline" target="_blank">National Science Foundation (NSF)</a>.
+<h2> Past Work </h2>
+During my doctoral studies at the University of Notre Dame, my dissertation focused on designing AI-powered knowledge management tools for community social service workers. Using participatory design and ethnographic methods, I explored the information practices and challenges faced by frontline organizations to co-create tools that enhance their capacity and impact. This work is captured in my dissertation titled “Strengthening Communities: Designing AI for Knowledge Synthesis and Transfer in Social Services.”
+
+Before that, I earned an MS in Computer Science from Boise State University, where I was part of the People and Information Research Team, examining the design of systems that support children in online search environments.
+
+<h2>Education</h2>
+I received my Ph.D. in Computer Science from the University of Notre Dame in 2025, co-advised by <a href="https://engineering.nd.edu/faculty/ronald-metoyer/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Ronald Metoyer</a> and <a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. My doctoral work was recognized with the <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" style="color: #b37f20; text-decoration:underline" target="_blank">2025 Social Justice Award</a> from the Graduate School at the University of Notre Dame and the <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" style="color: #b37f20; text-decoration:underline" target="_blank">2025 NCWIT Aspirations in Computing Collegiate Award</a>. I also hold an M.S. in Computer Science from Boise State University.
+
+Beyond research, I am passionate about mentoring and advancing AI literacy, particularly in the Global South. I continue to mentor students and early-career researchers as they navigate their own paths in computing and HCI.
+
+<h2>Publications and Recognition</h2>
+My work has been published and presented at premier venues including CHI, CSCW, IDC, ICSE, and FAccT, and has been supported by the <a href = "https://www.dupontfund.org/" style="color: #b37f20; text-decoration:underline" target="_blank">Jessie Ball duPont Foundation</a> and the <a href="https://www.nsf.gov/" style="color: #b37f20; text-decoration:underline" target="_blank">National Science Foundation (NSF)</a>. You can find all of my peer-reviewed scientific research articles on Google Scholar.
+
 
 Latest news
 ======
