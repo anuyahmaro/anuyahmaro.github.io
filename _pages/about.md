@@ -12,13 +12,11 @@ I am a computer scientist and design researcher at Microsoft, where my work is f
 As a researcher, I am deeply committed to understanding and improving people’s experiences with technology. With a background spanning computer science, human-computer interaction, and participatory design, I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human-AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
 
 
-Current work
-======
+**Current work**
 At Microsoft, I investigate how intelligent systems can facilitate more inclusive, collaborative, and productive work environments. My research approach combines ethnographic methods, in-depth interviews, and co-design workshops to uncover people’s needs and envision AI-powered tools that integrate smoothly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design AI systems that are practical, meaningful, and socially responsible.
 
 
-Past work
-======
+**Past work**
 During my doctoral studies at the University of Notre Dame, my dissertation titled "Strengthening Communities: Designing AI for Knowledge Synthesis and Transfer in Social Services" focused on designing AI-powered knowledge management tools for community social service workers. Using participatory design and ethnographic methods, I explored the information practices and challenges faced by frontline organizations to co-create tools that enhance their capacity and impact. Before that, I earned an MS in Computer Science from Boise State University, where I was part of the  <a href="https://piret.info/" style="color: #b37f20; text-decoration:underline" target="_blank">People and Information Research Team</a>, examining the design of systems that support children in online search environments.
 
 Education
