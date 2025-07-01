@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist and design researcher at Microsoft, where I focus on human-centered AI and accessibility to improve how people collaborate and get work done together. Previously, I conducted research on AI-powered knowledge management systems to support community-based organizations serving underserved and marginalized populations.
+I am a computer scientist and design researcher at Microsoft, where my work is focused on improving how people collaborate and get work done together. Previously, I conducted research on AI-powered knowledge management systems to support community-based organizations serving underserved and marginalized populations.
 
 As a researcher, I am deeply committed to understanding and improving people’s experiences with technology. With a background spanning computer science, human-computer interaction, and participatory design, I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human-AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
 
