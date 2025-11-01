@@ -38,11 +38,11 @@ Latest news
 <ul>
   <li>
     <strong>2025-03</strong>
-    <br> Big news!!! I was selected as one of the Honorable Mentions for the NCWIT Aspirations in Computing 2025 Collegiate Award!!! More details <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" target="_blank">here</a>.
+    <br> Big news!!! I was selected as one of the Honorable Mentions for the NCWIT Aspirations in Computing 2025 Collegiate Award!!! More details <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" style="color: #b37f20; text-decoration:underline" target="_blank">here</a>.
 </li>
   <li>
     <strong>2025-03</strong>
-    <br> Big news!!! My dissertation won the 2025 Social Justice award at the University of Notre Dame!!! More details <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" target="_blank">here</a>.
+    <br> Big news!!! My dissertation won the 2025 Social Justice award at the University of Notre Dame!!! More details <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" style="color: #b37f20; text-decoration:underline" target="_blank">here</a>.
 </li>
   <li>
     <strong>2025-03</strong>
