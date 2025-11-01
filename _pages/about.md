@@ -29,7 +29,7 @@ Beyond research, I am passionate about mentoring and advancing AI literacy, part
 
 **Publications and recognition**
 
-My work has been published and presented at premier venues including CHI, CSCW, IDC, ICSE, and FAccT, and has been supported by the <a href = "https://www.dupontfund.org/" style="color: #b37f20; text-decoration:underline" target="_blank">Jessie Ball duPont Foundation</a> and the <a href="https://www.nsf.gov/" style="color: #b37f20; text-decoration:underline" target="_blank">National Science Foundation (NSF)</a>. You can find all of my peer-reviewed scientific research articles on Google Scholar.
+My work has been published and presented at premier venues including CHI, CSCW, IDC, ICSE, and FAccT, and has been supported by the <a href = "https://www.dupontfund.org/" style="color: #b37f20; text-decoration:underline" target="_blank">Jessie Ball duPont Foundation</a> and the <a href="https://www.nsf.gov/" style="color: #b37f20; text-decoration:underline" target="_blank">National Science Foundation (NSF)</a>. You can find all of my peer-reviewed scientific research articles on <a href="https://scholar.google.com/citations?user=LB4holgAAAAJ&hl=en" style="color: #b37f20; text-decoration:underline" target="_blank"> Google Scholar</a>.
 
 
 Latest news
