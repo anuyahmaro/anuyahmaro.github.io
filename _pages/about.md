@@ -14,7 +14,7 @@ As a researcher, I am deeply committed to understanding and improving people’s
 
 **Current work**
 
-At Microsoft, I investigate how intelligent systems can facilitate more inclusive, collaborative, and productive work environments. My research approach combines in-depth interviews, ethnographic methods, and co-design workshops to uncover people’s needs and envision AI-powered tools that integrate smoothly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design AI systems that are practical, meaningful, and socially responsible.
+At Microsoft, I investigate how intelligent systems can facilitate more inclusive, collaborative, and productive work environments. My research approach combines in-depth interviews, ethnographic methods, and co-design workshops to uncover people’s needs and envision AI-powered tools that integrate smoothly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design technological solutions that are practical, meaningful, and socially responsible.
 
 
 **Past work**
