@@ -9,7 +9,7 @@ redirect_from:
 
 I am a computer scientist by training and a design researcher at Microsoft, where I focus on intelligent communication, collaboration, and accessibility. My work looks at how technology can better support how people actually work together, making it easier to collaborate, share information, and get things done.
 
-In my role, I use in-depth interviews, ethnographic approaches, usability testing, and participatory design to understand people’s workflows and reveal opportunities for more effective and inclusive solutions. I am especially interested in human–AI collaboration, AI literacy, and designing systems that reflect people’s real needs and contexts, not just technical possibilities. 
+I use in-depth interviews, ethnographic approaches, usability testing, participatory design, and qualitative and mixed methods research to understand people’s needs and uncover opportunities for more effective and inclusive solutions. My work is particularly focused on human–AI collaboration, AI literacy, and designing systems that reflect people’s real needs and contexts, not just technical possibilities.
 
 
 
@@ -21,14 +21,14 @@ During my doctoral studies at the University of Notre Dame, my dissertation, tit
 
 I earned my Ph.D. in Computer Science from the University of Notre Dame in 2025, co-advised by <a href="https://engineering.nd.edu/faculty/ronald-metoyer/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Ronald Metoyer</a> and <a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. My doctoral work was recognized with the <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" style="color: #b37f20; text-decoration:underline" target="_blank">2025 Social Justice Award</a> from the Graduate School at the University of Notre Dame and the <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" style="color: #b37f20; text-decoration:underline" target="_blank">2025 NCWIT Aspirations in Computing Collegiate Award</a>. I also hold an M.S. in Computer Science from Boise State University.
 
-**Beyond Work**
-
-Beyond my day-to-day work, I care about mentoring and supporting others navigating careers in computing and HCI, especially those from underrepresented backgrounds. I am also interested in advancing AI literacy in ways that are accessible and grounded in real-world contexts. FFeel free to reach out via email or LinkedIn if you’re looking to connect, collaborate, or need support.
 
 **Publications and recognition**
 
 My work has been published and presented at premier academic venues including CHI, CSCW, IDC, ICSE, and FAccT, and has been supported by the <a href = "https://www.dupontfund.org/" style="color: #b37f20; text-decoration:underline" target="_blank">Jessie Ball duPont Foundation</a> and the <a href="https://www.nsf.gov/" style="color: #b37f20; text-decoration:underline" target="_blank">National Science Foundation (NSF)</a>. You can find all of my peer-reviewed scientific research articles on <a href="https://scholar.google.com/citations?user=LB4holgAAAAJ&hl=en" style="color: #b37f20; text-decoration:underline" target="_blank"> Google Scholar</a>.
 
+**Beyond work**
+
+Beyond my day-to-day work, I care about mentoring and supporting others navigating careers in computing and HCI, especially those from underrepresented backgrounds. I am also interested in advancing AI literacy in ways that are accessible and grounded in real-world contexts. <b>Feel free to reach out via email or LinkedIn if you’re looking to connect, collaborate, or need support.</b>
 
 Latest news
 =====
