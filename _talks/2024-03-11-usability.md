@@ -1,5 +1,5 @@
 ---
-title: "Usability Testing."
+title: "Usability Testing"
 collection: talks
 type: " <b>(Guest Lecture - Hosted by Aderonke Sakpere)</b>"
 permalink:

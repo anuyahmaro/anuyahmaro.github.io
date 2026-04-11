@@ -1,5 +1,5 @@
 ---
-title: "Building Ecosystems for AI Innovation on the Continent."
+title: "Building Ecosystems for AI Innovation on the Continent"
 collection: talks
 type: " <b>(Invited Talk - Hosted by Saratu Abiola)</b>"
 permalink:
