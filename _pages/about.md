@@ -7,14 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist by training and a design researcher at Microsoft, where I focus on intelligent communication, collaboration, and accessibility to improve how people work together and get things done. Previously, I conducted research on AI-powered knowledge management systems to support community-based organizations serving underserved and marginalized populations.
+I am a computer scientist by training and a design researcher at Microsoft, where I focus on intelligent communication, collaboration, and accessibility. My work looks at how technology can better support how people actually work together, making it easier to collaborate, share information, and get things done.
 
-My work is grounded in a human-centered approach that draws on ethnography, participatory design, and qualitative research methods. I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human–AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
+In my role, I use in-depth interviews, ethnographic approaches, usability testing, and participatory design to understand people’s workflows and reveal opportunities for more effective and inclusive solutions. I am especially interested in human–AI collaboration, AI literacy, and designing systems that reflect people’s real needs and contexts, not just technical possibilities. 
 
-
-<!-- **Current work**
-
-At Microsoft, I investigate how technology can support more inclusive, collaborative, and productive work environments. My research approach combines in-depth interviews, ethnographic methods, and co-design workshops to uncover people’s needs and envision design solutions, including AI-powered ones, that integrate smoothly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design technological solutions that are practical, meaningful, and keep the needs of users of all abilities front and center. -->
 
 
 **Past work**
@@ -25,7 +21,9 @@ During my doctoral studies at the University of Notre Dame, my dissertation, tit
 
 I earned my Ph.D. in Computer Science from the University of Notre Dame in 2025, co-advised by <a href="https://engineering.nd.edu/faculty/ronald-metoyer/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Ronald Metoyer</a> and <a href="https://engineering.nd.edu/faculty/karla-badillo-urquiola/" style="color: #b37f20; text-decoration:underline" target="_blank">Dr. Karla Badillo-Urquiola</a>. My doctoral work was recognized with the <a href ="https://graduateschool.nd.edu/news/graduate-school-honors-2025-alumni-faculty-and-student-award-winners/" style="color: #b37f20; text-decoration:underline" target="_blank">2025 Social Justice Award</a> from the Graduate School at the University of Notre Dame and the <a href ="https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients" style="color: #b37f20; text-decoration:underline" target="_blank">2025 NCWIT Aspirations in Computing Collegiate Award</a>. I also hold an M.S. in Computer Science from Boise State University.
 
-Beyond research, I am passionate about mentoring and advancing AI literacy, particularly in the Global South. I continue to mentor students and early-career researchers as they navigate their own paths in computing and HCI.
+**Beyond Work**
+
+Beyond my day-to-day work, I care about mentoring and supporting others navigating careers in computing and HCI, especially those from underrepresented backgrounds. I am also interested in advancing AI literacy in ways that are accessible and grounded in real-world contexts. FFeel free to reach out via email or LinkedIn if you’re looking to connect, collaborate, or need support.
 
 **Publications and recognition**
 
