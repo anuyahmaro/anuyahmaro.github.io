@@ -7,6 +7,6 @@ permalink:
 venue: "Proceedings of the 18th ACM international conference on interaction design and children (IDC '19), Boise, Idaho."
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3311927.3323131'
 image:
-authors: 'Jerry Alan Fails, Maria Soledad Pera, <b>Oghenemaro Anuyah</b>, Casey Kennington, Katherine Landau Wright, & William Bigirimana.'
+authors: 'Jerry Alan Fails, Maria Soledad Pera, <b>Oghenemaro Anuyah</b>, Casey Kennington, Katherine Landau Wright, & William Bigirimana'
 abv: IDC19
 ---
