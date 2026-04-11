@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist by training, and design researcher at Microsoft, where my work is focused on improving how people collaborate and get work done. Previously, I conducted research on AI-powered knowledge management systems to support community-based organizations serving underserved and marginalized populations.
+I am a computer scientist by training and a design researcher at Microsoft, where I focus on intelligent communication, collaboration, and accessibility to improve how people work together and get things done. Previously, I conducted research on AI-powered knowledge management systems to support community-based organizations serving underserved and marginalized populations.
 
-As a researcher, I am deeply committed to understanding and improving people’s experiences with technology. With a background spanning computer science, human-computer interaction, and participatory design, I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human-AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
+My work is grounded in a human-centered approach that draws on ethnography, participatory design, and qualitative research methods. I examine how intelligent systems can be designed to be not only technically robust but also equitable, context-sensitive, and empowering. My research interests include human–AI collaboration, AI literacy, and designing inclusive systems that amplify community expertise.
 
 
-**Current work**
+<!-- **Current work**
 
-At Microsoft, I investigate how technology can support more inclusive, collaborative, and productive work environments. My research approach combines in-depth interviews, ethnographic methods, and co-design workshops to uncover people’s needs and envision design solutions, including AI-powered ones, that integrate smoothly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design technological solutions that are practical, meaningful, and keep the needs of users of all abilities front and center.
+At Microsoft, I investigate how technology can support more inclusive, collaborative, and productive work environments. My research approach combines in-depth interviews, ethnographic methods, and co-design workshops to uncover people’s needs and envision design solutions, including AI-powered ones, that integrate smoothly into their workflows. Skilled at communicating research insights and aligning stakeholders around user-centered visions, I aim to design technological solutions that are practical, meaningful, and keep the needs of users of all abilities front and center. -->
 
 
 **Past work**
