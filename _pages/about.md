@@ -28,7 +28,7 @@ My work has been published and presented at premier academic venues including CH
 
 **Beyond work**
 
-Beyond my day-to-day work, I care about mentoring and supporting others navigating careers in computing and HCI, especially those from underrepresented backgrounds. I am also interested in advancing AI literacy in ways that are accessible and grounded in real-world contexts. <b>Feel free to reach out via email or LinkedIn if you’re looking to connect, collaborate, or need support.</b>
+Beyond my day-to-day work, I care deeply about mentoring and supporting others navigating careers in computing and HCI, especially those from underrepresented backgrounds. I am also interested in advancing AI literacy in ways that are accessible and grounded in real-world contexts. Feel free to connect with me through my <a href="https://adplist.org/mentors/maro-anuyah-phd" style="color: #b37f20; text-decoration:underline" target="_blank">ADPList profile<a>, or reach out via email or LinkedIn if you’re interested in connecting, collaborating, or need support.
 
 Latest news
 =====
